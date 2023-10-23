@@ -1,2 +1,2 @@
 # html-portfolio
-WebDev Portfolio (Test) - Still LEarning
+WebDev Portfolio (Test) - Still Learning
